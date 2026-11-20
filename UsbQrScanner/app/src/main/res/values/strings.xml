@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USB QR Scanner</string>
+    <string name="status_waiting_permission">Grant camera permission to access USB cameras</string>
+    <string name="status_waiting_camera">Connect an external USB camera via OTG</string>
+    <string name="status_connecting">Connecting to %1$s…</string>
+    <string name="status_connected">Connected: %1$s</string>
+    <string name="status_permission_denied">USB camera permission was denied</string>
+    <string name="status_paused">Scanning paused</string>
+    <string name="placeholder_result">Point the USB camera at a QR code to scan.</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_open">Open Link</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_rotate">Rotate (%1$d°)</string>
+    <string name="btn_select_camera">USB Camera</string>
+    <string name="copied_toast">QR content copied to clipboard</string>
+    <string name="no_usb_cameras">No external USB cameras detected</string>
+    <string name="select_camera_title">Select USB Camera</string>
+</resources>
